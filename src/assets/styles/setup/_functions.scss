@@ -5,6 +5,6 @@
 }
 
 // EM Functions
-@function em($pixels, $context: 16px) {
-    @return calc(($pixels/$context) * 1em);
-}
+// @function em($pixels, $context: 16px) {
+//     @return calc(($pixels/$context) * 1em);
+// }
